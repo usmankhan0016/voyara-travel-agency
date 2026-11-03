@@ -10,6 +10,11 @@
 !.yarn/releases
 !.yarn/versions
 
+# local working notes and design source material (not part of the deliverable)
+/CLAUDE.md
+/REQUIREMENTS.md
+/design-resources/
+
 # testing
 /coverage
 
